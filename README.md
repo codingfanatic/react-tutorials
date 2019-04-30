@@ -27,4 +27,7 @@ States
 >States
 
 >Constructors
-  
+
+Style
+
+>In an array, the last style will ALWAYS take precedence over others. 
