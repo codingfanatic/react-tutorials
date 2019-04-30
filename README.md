@@ -4,19 +4,23 @@ A collection of JavaScript files created during my journey to learn React Native
 https://facebook.github.io/react-native/docs/getting-started
 
 Hello World
--Render
+>Render
 
 >Component
 
 >JSX
 
-Source
->Props (pt. 1)
+Props (pt. 1)
 
 >Sources are props for controlling the way images look
 
-Hello World
->fff
+Style and custom props
+
+>JavaScript Syntax
+
+>Component Hierarchy
+
+>Props and Custom props
 
 Hello World
 >fff
