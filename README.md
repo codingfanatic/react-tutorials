@@ -35,3 +35,5 @@ Style
 Size
 
 >The size of each View component can be explicitly styled
+
+>Fixed dimensions are ideal for components set to render at the exact same size regardless of the size of the screen
