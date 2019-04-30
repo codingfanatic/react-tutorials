@@ -1,4 +1,5 @@
-//Each View component is 
+//Each View component height and width is set explicitly
+//Ideal for components set to render at exactly the same size
 
 import React, { Component } from 'react';
 import { AppRegistry, View } from 'react-native';
