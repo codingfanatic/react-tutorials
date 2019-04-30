@@ -31,3 +31,7 @@ States
 Style
 
 >In an array, the last style will ALWAYS take precedence over others. 
+
+Size
+
+>The size of each View component can be explicitly styled
