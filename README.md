@@ -37,3 +37,9 @@ Size
 >The size of each View component can be explicitly styled
 
 >Fixed dimensions are ideal for components set to render at the exact same size regardless of the size of the screen
+
+>Flex defines the height of a component. It is a ratio compared to other components on screen.
+
+>Removing the parent flex prevents the child components from rendering since it won't have any dimensions
+
+>Changing the parent height causes child components to render inside an area defined by the size of the parent
