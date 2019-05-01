@@ -51,3 +51,9 @@ Flexbox
 >flexDirection determines the primary axis of a layout
 
 >FlexDirections organize child components vertically (column) by default. Row organizes them horizontally.
+
+Justify Content
+
+>justifyContent determines the way children components are distributed along the primary axis of the parent component
+
+>Options include flex-start, center, flex-end, space-around, space-between and space-evenly.
