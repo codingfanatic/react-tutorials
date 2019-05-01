@@ -14,7 +14,7 @@ Props (pt. 1)
 
 >Sources are props for controlling the way images look
 
-Style and custom props
+PRops (pt.2) Style and custom props
 
 >JavaScript Syntax
 
