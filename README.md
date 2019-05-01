@@ -57,3 +57,11 @@ Justify Content
 >justifyContent determines the way children components are distributed along the primary axis of the parent component
 
 >Options include flex-start, center, flex-end, space-around, space-between and space-evenly.
+
+Align Items
+
+>alignItems determines the alignment of children along the secondary axis
+
+>If primary is row, secondary is column and vice versa
+
+>Options: flex-start, center, flex-end, and stretch.
