@@ -43,3 +43,11 @@ Size
 >Removing the parent flex prevents the child components from rendering since it won't have any dimensions
 
 >Changing the parent height causes child components to render inside an area defined by the size of the parent
+
+Flexbox
+
+>Flexbox is designed to display consistent layouts on different sized screens
+
+>flexDirection determines the primary axis of a layout
+
+>FlexDirections organize child components vertically (column) by default. Row organizes them horizontally.
