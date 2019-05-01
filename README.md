@@ -65,3 +65,5 @@ Align Items
 >If primary is row, secondary is column and vice versa
 
 >Options: flex-start, center, flex-end, and stretch.
+
+>components only stretch when they don't have fixed dimensions on the secondary axis
