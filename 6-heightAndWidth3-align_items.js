@@ -12,6 +12,8 @@ export default class RoyalFlow extends Component{
       // Try setting `justifyContent` to `flex-end`.
       // Try setting `flexDirection` to `row`.
       //alignItems: 'stretch' stretches along the secondary axis (row)
+      //The first component doesn't stretch because it has fixed dimensions on the secondary axis
+      //Second and third components stretch because their width has not been defined.
       <View style={{
         flex: 1,
         flexDirection: 'column',
