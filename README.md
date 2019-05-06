@@ -73,3 +73,9 @@ Input Text
 >TextInput is a component which allows users to enter text
 
 >onChangeText is a prop called every time the text is changed
+
+Buttons
+
+>Button component has an onPress prop for defining actions performed when pressed
+
+>The title prop is the text displayed inside the button
