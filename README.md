@@ -67,3 +67,9 @@ Align Items
 >Options: flex-start, center, flex-end, and stretch.
 
 >components only stretch when they don't have fixed dimensions on the secondary axis
+
+Input Text
+
+>TextInput is a component which allows users to enter text
+
+>onChangeText is a prop called every time the text is changed
