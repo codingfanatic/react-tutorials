@@ -79,3 +79,13 @@ Buttons
 >Button component has an onPress prop for defining actions performed when pressed
 
 >The title prop is the text displayed inside the button
+
+Touches
+
+>TouchableHighlight is ideal wherever links/buttons would go. The background darkens when touched
+
+>TouchableNativeFeedback displays an ink surface with ripples when touched
+
+>TouchableOpacity reduces the opacity of the button showing the background to be seen through while pressed down
+
+>TouchableWithoutFeedback is a super basic button which doesn't react when touched
