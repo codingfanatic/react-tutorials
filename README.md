@@ -115,3 +115,9 @@ FlatLists
 >renderItem takes an item from the source and returns a formatted component to render
 
 >The FlatListBasics component then renders the FlatList and all Text components.
+
+SectionLists
+
+>SectionLists break up information into lists in different sections
+
+>This program shows names sorted under different letters, like the list of contacts.
