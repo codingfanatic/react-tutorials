@@ -89,3 +89,13 @@ Touches
 >TouchableOpacity reduces the opacity of the button showing the background to be seen through while pressed down
 
 >TouchableWithoutFeedback is a super basic button which doesn't react when touched
+
+ScrollViews
+
+>ScrollViews are generic scrolling containers which can host multiple components/views
+
+>Able to scroll horizontal by setting the horizontal property
+
+>Best for displaying a small amount of things of a limited size
+
+>FlatList component is better for a longer list
