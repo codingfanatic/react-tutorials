@@ -121,3 +121,7 @@ SectionLists
 >SectionLists break up information into lists in different sections
 
 >This program shows names sorted under different letters, like the list of contacts.
+
+Networking
+
+>Fetching allows an app to load resources from a remote URL
